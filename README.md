@@ -49,8 +49,9 @@ Run the notebooks in the following order:
 
 ## Results
 
-(Update this section with your best model's performance, e.g., RMSE score on the test set).
+Le meilleur modele est le random forest regressor avec un score de R2 Score avec Pipeline complet : 0.8316
+
 
 ## Author
 
-[Your Name]
+[TENGA Cherif]
